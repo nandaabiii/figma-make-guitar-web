@@ -1,0 +1,310 @@
+make full stacked website using nex.js/react for comunity based guitar preset just like the text above, make it modern simply just like the text it said. specification are on the text, feature placing and visual and brainstroming etc are on the text. make a google auth login too because its a login based and I want all of it to be free except a domain. # Vision Platform
+
+Bayangkan sebuah tempat dimana gitaris Indonesia tidak lagi kesulitan mencari preset bagus untuk device mereka.
+
+Sebuah platform modern dengan nuansa minimalis dan elegan, tempat pengguna dapat menemukan tone gitar, berbagi preset, memperlihatkan permainan mereka, berdiskusi, hingga membangun identitas sebagai guitarist creator.
+
+Platform ini bukan hanya sekadar website upload preset, melainkan sebuah ekosistem komunitas gitar modern berbasis discovery dan creativity.
+
+---
+
+# Core Concept
+
+Platform berfokus pada:
+
+```txt
+Tone Discovery
+Community
+Preset Sharing
+Musician Identity
+Knowledge Sharing
+```
+
+User dapat:
+
+* mencari preset berdasarkan lagu, artist, genre, atau device
+* membagikan preset mereka sendiri
+* mengunggah showcase permainan gitar melalui video embed
+* membangun profile gear dan portfolio
+* berdiskusi di forum komunitas
+* mempelajari teori musik dan tone secara bertahap
+
+---
+
+# Main Experience
+
+Saat user membuka website, mereka langsung melihat homepage dengan tampilan modern bergaya Spotify-like interface.
+
+Homepage menampilkan:
+
+* trending tones
+* recently uploaded presets
+* Indonesian song presets
+* popular devices
+* featured creators
+* community discussions
+* recommended tones berdasarkan genre
+
+Semua ditampilkan menggunakan card modern dengan image preview besar, rounded corner, dan hover animation halus.
+
+Website terasa seperti:
+
+* platform musik modern
+* social media komunitas
+* creative discovery hub
+
+bukan seperti forum lama yang penuh teks.
+
+---
+
+# Tone Discovery System
+
+Ini menjadi jantung utama platform.
+
+User dapat menemukan tone berdasarkan:
+
+* lagu
+* artist
+* genre
+* style bermain
+* device effect
+* creator tertentu
+* tag tertentu
+
+Contoh:
+
+```txt
+Hindia Ambient Clean
+Polyphia Style
+Dewa 19 Lead Tone
+Noah Crunch
+Worship Pad
+Shoegaze Reverb
+```
+
+Search system menjadi sangat penting agar user bisa langsung menemukan tone yang mereka cari.
+
+---
+
+# Preset Upload System
+
+Setiap preset memiliki halaman detail sendiri.
+
+Isi preset:
+
+* thumbnail/image
+* nama preset
+* lagu/artist
+* genre
+* device yang digunakan
+* deskripsi tone
+* compatibility info
+* tags
+* download link
+* embedded video/audio preview
+* komentar
+* like/favorite
+
+User tidak harus upload file preset langsung ke server.
+
+Mereka cukup menaruh:
+
+* Google Drive link
+* Dropbox
+* GitHub
+* file hosting lain
+
+sehingga biaya server tetap ringan.
+
+---
+
+# Audio & Video Preview
+
+Salah satu fitur paling penting.
+
+User dapat embed:
+
+* YouTube
+* TikTok
+* Instagram
+
+sehingga tone dapat langsung didengar dan dilihat tanpa meninggalkan website.
+
+Hal ini memberi keuntungan:
+
+* creator mendapat exposure/view
+* user lain bisa mendengar hasil tone asli
+* engagement komunitas meningkat
+
+Website menjadi lebih hidup dan tidak hanya berisi teks.
+
+---
+
+# Device Ecosystem
+
+Setiap effect memiliki halaman khusus.
+
+Contoh:
+
+```txt
+M-VAVE MK20
+Zoom G1X Four
+NUX MG-300
+Valeton GP-200
+```
+
+Di dalamnya terdapat:
+
+* informasi device
+* preset terkait
+* preset trending
+* compatibility note
+* review komunitas
+* rekomendasi tone
+
+Hal ini membuat platform terasa terstruktur dan profesional.
+
+---
+
+# Musician Profile System
+
+Setiap user memiliki profile modern seperti gabungan:
+
+* GitHub
+* LinkedIn
+* Spotify artist page
+
+Isi profile:
+
+* bio
+* social links
+* gear rig
+* uploaded presets
+* favorite genres
+* showcase videos
+* followers
+* portfolio musik
+
+Tujuannya:
+
+* membangun identitas creator
+* membuka peluang kolaborasi
+* membuka peluang recruitment/session player
+* meningkatkan kualitas komunitas
+
+---
+
+# Community Forum
+
+Platform juga memiliki forum diskusi seperti Reddit.
+
+Bukan hanya tentang effect:
+
+* gitar
+* recording
+* mixing
+* amp
+* IR
+* teori musik
+* latihan
+* gear recommendation
+* problem solving
+
+Ini membuat website menjadi pusat komunitas gitar Indonesia.
+
+---
+
+# Indonesian Guitar Community Focus
+
+Ini adalah pembeda terbesar platform.
+
+Website secara khusus mendukung:
+
+* preset lagu Indonesia
+* artist Indonesia
+* komunitas lokal
+* bahasa Indonesia
+* device murah yang umum dipakai di Indonesia
+
+Karena banyak platform luar negeri:
+
+* preset Indonesia sedikit
+* komunitas Asia kurang aktif
+* device budget kurang dibahas
+
+Platform ini mengisi celah tersebut.
+
+---
+
+# Future Expansion
+
+
+
+```txt
+Tonepedia
+Chord Library
+Chord Identifier
+Music Knowledge Hub
+AI Tone Recommendation
+Rig Builder
+Community Marketplace
+```
+
+
+
+---
+
+# UI / UX Direction
+
+Visual website:
+
+* dark mode dominant
+* minimalist modern
+* Spotify-inspired
+* elegant typography
+* glassmorphism subtle
+* smooth animation
+* cinematic tone image
+* modern rounded cards
+
+Nuansa:
+
+```txt
+Musician
+Creative
+Modern
+Premium
+Minimal
+```
+
+Website harus terasa:
+
+```txt
+“clean and addictive to explore”
+```
+
+bukan ramai dan membingungkan.
+
+---
+
+# Technical Direction
+
+Stack:
+
+```txt
+Frontend:
+Next.js / React
+
+Database:
+Supabase
+
+Authentication:
+Google Login + Email Login
+
+Hosting:
+Vercel / Cloudflare Pages
+
+Storage:
+External embed/link system
+```
+
